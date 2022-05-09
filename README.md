@@ -9,7 +9,22 @@ The goal of this challenge is to build a tiny application (both
 frontend and backend) that can lets users find dog owners in 
 different countries for a specific breed.
 
-# Requirements
+# Running the Projects
+
+To run the frontend do:
+1. `cd frontend`
+2. `npm ci` or `npm install`
+3. `npm start`
+4. Dev server will start in port 3000
+
+To run the backend:
+1. `cd backend`
+2. `npm ci` or `npm install`
+3. `npm start`
+4. Server should start in port 3001
+
+
+# Challenge Requirements
 
 A wireframe of the application we're trying to build can be seen
 in the following image. The goal is to build as much of the app as possible.
